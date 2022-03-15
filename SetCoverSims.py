@@ -260,8 +260,8 @@ def do_multi_temp_simulation():
 
 
 if __name__ == "__main__":
-    # To produce Figure 5, call do_full_simulation()
+    # To produce Figure 4, call do_full_simulation()
     do_full_simulation()
     # do_fixed_temp_sim()
-    # To produce Figure 4, call do_multi_temp_simulation()
+    # To produce Figure 3, call do_multi_temp_simulation()
     # do_multi_temp_simulation()
