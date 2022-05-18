@@ -10,3 +10,5 @@ num_zero_nodes = 3, num_actions = 200000, low_temp = -2.3, high_temp = 2.3, temp
 To produce figure 4 from the manuscript, call the function `do_full_simulation` that is contained in SetCoverSims.py.
 The parameters that were used to produce the figure are as follows: random_seed = 0, k = 10, num_zero_nodes = 3,
 low_temp = -2.3, high_temp = 2.3, temp_steps = 60, distance_steps = 50, num_actions = 200000
+
+This material is based upon work supported by the National Science Foundation under Grant Number ECCS-2013779. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
